@@ -1,0 +1,5 @@
+c:\users\carsten\documents\visual studio 2010\Projects\TekniskOppgIterate1\TekniskOppgIterate1\bin\Debug\TekniskOppgIterate1.exe
+c:\users\carsten\documents\visual studio 2010\Projects\TekniskOppgIterate1\TekniskOppgIterate1\bin\Debug\TekniskOppgIterate1.pdb
+c:\users\carsten\documents\visual studio 2010\Projects\TekniskOppgIterate1\TekniskOppgIterate1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\carsten\documents\visual studio 2010\Projects\TekniskOppgIterate1\TekniskOppgIterate1\obj\x86\Debug\TekniskOppgIterate1.exe
+c:\users\carsten\documents\visual studio 2010\Projects\TekniskOppgIterate1\TekniskOppgIterate1\obj\x86\Debug\TekniskOppgIterate1.pdb
